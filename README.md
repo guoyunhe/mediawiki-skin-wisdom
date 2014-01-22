@@ -6,7 +6,7 @@ A MediaWiki theme/skin that offers easy-to-use and effective functions.
 # Install
 Clone and Copy the source code to the /skins/ folder of your MediaWiki's web directory. Clean cache of your web browser or disable browser cache in Preference of MediaWiki. After that, you can see it works fine.
 
-# Custom
+# Customize
 You can add site logo and set background.
 
 Copy the logo picture to /skins/wisdom/ folder and name it as logo.png. Copy the background image to /skins/wisdom/ folder and name it as background.jpg.
